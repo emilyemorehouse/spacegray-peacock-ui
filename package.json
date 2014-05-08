@@ -1,0 +1,11 @@
+{
+  "name": "spacegray-peacock-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "Port of the [Spacegray](http://kkga.github.io/spacegray) Sublime Text theme to Atom. UI Theme to match [Peacock Syntax](https://atom.io/themes/peacock-syntax).",
+  "license": "MIT",
+  "repository": "https://github.com/emilyemorehouse/spacegray-peacock-ui",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
